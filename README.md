@@ -22,4 +22,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=stnc&label=stnc%20github&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
-[//]: # (https://visitcount.itsvg.in/api?id=stnc&label=stnc%20github&color=1&icon=2&pretty=false)
+
