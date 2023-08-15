@@ -22,4 +22,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=stnc&label=stnc%20github&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
-
+[![TUNC GitHub stats](https://github-readme-stats.vercel.app/api?username=stnc)](https://github.com/stnc/github-readme-stats)
