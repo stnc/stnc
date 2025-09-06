@@ -1,4 +1,4 @@
-## :wave: Hi! I'm Tunc Selman! I'm developing myself as Full-Stack Developer.
+## :wave: Hi! I'm Tunc Sam! I'm developing myself as Full-Stack Developer.
 ## :computer_mouse: [Contact Me!](https://bio.link/selmantu)
 ## 💻 Tech Stack:
 
